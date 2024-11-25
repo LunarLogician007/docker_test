@@ -1,0 +1,24 @@
+##Docker Installation##
+
+https://docs.docker.com/desktop/setup/install/windows-install/
+
+download the docker desktop file from the above link
+
+#WSL# 
+
+open powershell as administrator and type wsl --install 
+
+once thats install reboot and open the docker desktop installed.exe and install docker 
+
+then open the terminal in the docker desktop (bottom right)
+
+and then 
+paste this command 
+
+docker run -p 6080:80 --security-opt seccomp=unconfined --shm-size=512m tiryoh/ros2-desktop-vnc:humble
+
+thats it , once the container starts running  , 
+
+open your browser and then type in http://127.0.0.1:6080/
+
+enjoy
