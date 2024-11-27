@@ -1,14 +1,16 @@
+#WSL# 
+
+open powershell as administrator and type wsl --install 
+once thats install reboot
+
+
 ##Docker Installation##
 
 https://docs.docker.com/desktop/setup/install/windows-install/
 
 download the docker desktop file from the above link
 
-#WSL# 
-
-open powershell as administrator and type wsl --install 
-
-once thats install reboot and open the docker desktop installed.exe and install docker 
+open the docker desktop installed.exe and install docker 
 
 then open the terminal in the docker desktop (bottom right)
 
