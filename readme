@@ -24,3 +24,19 @@ thats it , once the container starts running  ,
 open your browser and then type in http://127.0.0.1:6080/
 
 enjoy
+
+
+
+1.	ls - Lists files and directories in the current directory.
+2.	cd - Changes the current directory.
+3.	pwd - Prints the current working directory.
+4.	mkdir - Creates a new directory.
+5.	rmdir - Removes an empty directory.
+6.	rm - Deletes files or directories.
+7.	touch - Creates an empty file.
+8.	cp - Copies files or directories.
+9.	mv - Moves or renames files or directories.
+10.	chmod - Changes file or directory permissions.
+11.	apt - Manages packages on Debian-based systems.
+12.	clear - Clears the terminal screen.
+13. allows you to run the commad as root (/administrator)
