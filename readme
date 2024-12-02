@@ -39,4 +39,4 @@ enjoy
 10.	chmod - Changes file or directory permissions.
 11.	apt - Manages packages on Debian-based systems.
 12.	clear - Clears the terminal screen.
-13. allows you to run the commad as root (/administrator)
+13. sudo - allows you to run the commad as root (/administrator)
