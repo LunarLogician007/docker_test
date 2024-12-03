@@ -44,6 +44,17 @@
    mv [source] [destination]
    ```
 
+## IDE
+1. **open in VS Code current directory**:  
+   ```bash
+   code .
+   ```
+
+1. **open in VS codium current directory**:  
+   ```bash
+   codium .
+   ```
+   
 ## File Content Operations
 1. **View file content**:  
    ```bash
@@ -81,15 +92,6 @@
    du -sh [file_or_directory]
    ```
 
-3. **Check running processes**:  
-   ```bash
-   ps aux
-   ```
-
-4. **Check system uptime**:  
-   ```bash
-   uptime
-   ```
 
 ## Permissions and Ownership
 1. **Change file permissions**:  
@@ -103,16 +105,6 @@
    chown [owner]:[group] [file_name]
    ```
 
-## Networking
-1. **Check network configuration**:  
-   ```bash
-   ifconfig
-   ```
-
-2. **Ping a server**:  
-   ```bash
-   ping [hostname_or_IP]
-   ```
 
 ## Package Management
 1. **Install a package** (Ubuntu/Debian):  
